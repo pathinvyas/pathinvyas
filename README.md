@@ -1,19 +1,20 @@
 # Hi there! 👋 I'm Pathin Vyas
 
-🚀 **Computer Science Undergraduate | Full-Stack Developer | Tech Enthusiast**  
-📍 Greater Sudbury, Ontario, Canada
+🚀 **Computer Science Undergraduate | Full-Stack Developer | Robotics & CV Enthusiast**  
+📍 Greater Sudbury, Ontario, Canada  
 
-I’m a passionate developer who enjoys building **scalable, real-world applications** and exploring modern technologies. I love solving complex problems, learning continuously, and turning ideas into working products.
+I’m a passionate developer who enjoys building **real-world, scalable software solutions** and experimenting with **robotics and computer vision systems**.  
+I love problem-solving, clean architecture, and learning technologies that make an impact.
 
 ---
 
 ## 👨‍🎓 About Me
 
-- 🎓 Studying **Computer Science** at **Laurentian University** (Expected Graduation: 2028)
-- 💻 Interested in **Full-Stack Development, Software Engineering, and Cloud Technologies**
-- 🧠 Strong focus on **clean code, modular design, and problem-solving**
-- 🌱 Currently improving my skills in **backend systems, DevOps, and system design**
-- 🤝 Open to **internships, collaborations, and open-source contributions**
+- 🎓 Studying **Computer Science** at **Laurentian University** (Graduating 2028)
+- 💻 Interested in **Full-Stack Development, Software Engineering, Robotics & AI**
+- 🧠 Strong believer in **clean code, modular design, and maintainability**
+- 🌱 Currently learning more about **backend systems, DevOps, and Computer Vision**
+- 🤝 Open to **internships, collaborations, research, and open-source work**
 
 ---
 
@@ -25,34 +26,41 @@ I’m a passionate developer who enjoys building **scalable, real-world applicat
 
 ---
 
-## 📊 GitHub Stats
+## 🤖 Things I Like Working On
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PathinVyas&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PathinVyas&layout=compact&theme=tokyonight" height="165" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=PathinVyas&theme=tokyonight" />
-</p>
+- 🔹 **Robotics systems & automation**
+- 🔹 **Computer Vision** (object detection, tracking, vision-based decision making)
+- 🔹 Full-stack web applications
+- 🔹 REST & GraphQL APIs
+- 🔹 Backend logic & database design
+- 🔹 DevOps basics (Docker, CI/CD)
+- 🔹 Real-world, problem-driven projects
 
 ---
 
-## 🌐 Connect With Me
+## 🧩 Technical Interests
 
-- 💼 LinkedIn: [linkedin.com/in/pathin-vyas-592746260](https://www.linkedin.com/in/pathin-vyas-592746260/)
-- 💻 GitHub: [github.com/PathinVyas](https://github.com/PathinVyas)
+- 🤖 Robotics & embedded intelligence  
+- 👁️ Computer Vision & perception systems  
+- 🌐 Web & backend development  
+- ⚙️ Software engineering principles  
+- ☁️ Cloud deployment & scalability  
+- 🧪 Experimenting with new tech stacks  
 
 ---
 
-## ✨ Quote I Believe In
+## 🤝 Let’s Connect
+
+- 📧 **Email**: pathinvyas@gmail.com
+- 💼 **LinkedIn**: [linkedin.com/in/pathin-vyas-592746260](https://www.linkedin.com/in/pathin-vyas-592746260/)
+- 💻 **GitHub**: [github.com/PathinVyas](https://github.com/PathinVyas)
+
+---
+
+## 💡 Quote I believe in!
 
 > *“First, solve the problem. Then, write the code.”* — John Johnson
 
 ---
 
-⭐ **If you like my work, consider giving a star to my repositories!**
+⭐ If you like my work, feel free to explore my repositories and leave a star!
