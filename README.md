@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Pathin Vyas
+# Hi there! 👋 I'm Pathin Vyas,
 
 🚀 **Computer Science Undergraduate | Full-Stack Developer | Robotics & CV Enthusiast**  
 📍 Greater Sudbury, Ontario, Canada  
