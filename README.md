@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Pathin Vyas,
 
 🚀 **Computer Science Undergraduate | Full-Stack Developer | Robotics & CV Enthusiast**  
-📍 Greater Sudbury, Ontario, Canada  
+📍 Greater Sudbury, Ontario,Canada  
 
 I’m a passionate developer who enjoys building **real-world, scalable software solutions** and experimenting with **robotics and computer vision systems**.  
 I love problem-solving, clean architecture, and learning technologies that make an impact.
