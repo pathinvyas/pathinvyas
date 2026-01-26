@@ -28,7 +28,7 @@ I love problem-solving, clean architecture, and learning technologies that make 
 
 ## 🤖 Things I Like Working On
 
-- 🔹 **Robotics systems & automation**
+- 🔹 **Robotics systems & automation** 
 - 🔹 **Computer Vision** (object detection, tracking, vision-based decision making)
 - 🔹 Full-stack web applications
 - 🔹 REST & GraphQL APIs
