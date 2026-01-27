@@ -34,7 +34,7 @@ I love problem-solving, clean architecture, and learning technologies that make 
 - 🔹 REST & GraphQL APIs
 - 🔹 Backend logic & database design
 - 🔹 DevOps basics (Docker, CI/CD)
-- 🔹 Real-world, problem-driven projects
+- 🔹 Real-world, problem-driven projects 
 
 ---
 
