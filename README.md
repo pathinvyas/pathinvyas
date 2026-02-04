@@ -1,62 +1,63 @@
-Hi there! 👋 I'm Pathin Vyas,
-🚀 Computer Science Undergraduate | Robotics & CV Specialist | Space Systems Enthusiast 📍 Greater Sudbury, Ontario, Canada
+# Hi there! 👋 I'm Pathin Vyas,
 
-I’m a passionate developer who enjoys building real-world, scalable software solutions and experimenting with autonomous robotics and computer vision systems.
+🚀 **Computer Science Undergraduate | Robotics & CV Specialist | Space Systems Enthusiast** 📍 Greater Sudbury, Ontario, Canada  
 
+I’m a passionate developer who enjoys building **real-world, scalable software solutions** and experimenting with **autonomous robotics and computer vision systems**.  
 I love problem-solving, clean architecture, and learning technologies that make an impact.
 
-👨‍🎓 About Me
-🎓 Studying Computer Science at Laurentian University (Graduating 2028)
+---
 
-🚀 Interested in Space Systems (Orbital Mechanics & Satellite Ops), Robotics & Computer Vision
+## 👨‍🎓 About Me
 
-🧠 Strong believer in clean code, modular design, and maintainability
+- 🎓 Studying **Computer Science** at **Laurentian University** (Graduating 2028)
+- 🚀 Interested in **Space Systems (Orbital Mechanics & Satellite Ops), Robotics & Computer Vision**
+- 🧠 Strong believer in **clean code, modular design, and maintainability**
+- 🌱 Currently learning more about **Perception Systems, SLAM, and Backend Scalability**
+- 🤝 Open to **internships, collaborations, research, and open-source work**
 
-🌱 Currently learning more about Perception Systems, SLAM, and Backend Scalability
+---
 
-🤝 Open to internships, collaborations, research, and open-source work
+## 🛠️ Skills & Technologies
 
-🛠️ Skills & Technologies
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,spring,html,css,mysql,git,github,docker,linux,react,vue,nodejs,redis,flutter,jenkins,aws,elasticsearch,graphql,express,fastapi,python&perline=8" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,spring,html,css,mysql,git,github,docker,linux,react,vue,nodejs,redis,flutter,jenkins,aws,elasticsearch,graphql,express,fastapi,python&perline=8" />
 </p>
 
-🤖 Things I Like Working On
-🔹 Robotics & Autonomous Systems (Path planning, kinematics, and control theory)
+---
 
-🔹 Computer Vision & Perception (Object detection, tracking, SLAM, and sensor fusion)
+## 🤖 Things I Like Working On
 
-🔹 Space Systems & Trade Assistants (Orbital calculations and space-ground logic)
+- 🔹 **Robotics & Autonomous Systems** (Path planning, kinematics, and control theory)
+- 🔹 **Computer Vision & Perception** (Object detection, tracking, SLAM, and sensor fusion)
+- 🔹 **Space Systems & Trade Assistants** (Orbital calculations and space-ground logic)
+- 🔹 **Full-Stack Development** (Flutter, React, Node.js)
+- 🔹 **API Design** (REST & GraphQL)
+- 🔹 **DevOps & Backend** (Docker, CI/CD, Database Design)
 
-🔹 Full-stack web & mobile applications (Flutter, React, Node.js)
+---
 
-🔹 REST & GraphQL APIs
+## 🧩 Technical Interests
 
-🔹 Backend logic & database design
+- 🛰️ **Space Exploration Technologies** (Spacecraft autonomy and orbital intelligence)
+- 🤖 **Embedded Robotics** (Hardware-software integration and perception)
+- 👁️ **Visual Intelligence** (Real-time detection and perception systems)
+- ⚙️ **Software Engineering** (Clean architecture and system design)
+- ☁️ **Cloud Computing** (Scalability and deployment)
 
-🔹 DevOps basics (Docker, CI/CD)
+---
 
-🧩 Technical Interests
-🛰️ Space Systems & orbital intelligence
+## 🤝 Let’s Connect
 
-🤖 Robotics & embedded intelligence
+- 📧 **Email**: pathinvyas@gmail.com
+- 💼 **LinkedIn**: [Pathin Vyas](https://www.linkedin.com/in/pathin-vyas-592746260/)
+- 💻 **GitHub**: [PathinVyas](https://github.com/PathinVyas)
 
-👁️ Computer Vision & perception systems
+---
 
-⚙️ Software engineering principles
+## 💡 Quote I believe in!
 
-☁️ Cloud deployment & scalability
+> *“First, solve the problem. Then, write the code.”* — John Johnson
 
-🧪 Experimenting with new tech stacks
-
-🤝 Let’s Connect
-📧 Email: pathinvyas@gmail.com
-
-💼 LinkedIn: linkedin.com/in/pathin-vyas-592746260
-
-💻 GitHub: github.com/PathinVyas
-
-💡 Quote I believe in!
-“First, solve the problem. Then, write the code.” — John Johnson
+---
 
 ⭐ If you like my work, feel free to explore my repositories and leave a star!
