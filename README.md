@@ -1,6 +1,7 @@
 # Hi there! 👋 I'm Pathin Vyas,
 
-🚀 **Computer Science Undergraduate | Robotics & CV Specialist | Space Systems Enthusiast** 📍 Greater Sudbury, Ontario, Canada  
+🚀 **Computer Science Undergraduate | Robotics & CV Specialist | Space Systems Enthusiast** 
+📍 Greater Sudbury, Ontario, Canada  
 
 I’m a passionate developer who enjoys building **real-world, scalable software solutions** and experimenting with **autonomous robotics and computer vision systems**.  
 I love problem-solving, clean architecture, and learning technologies that make an impact.
