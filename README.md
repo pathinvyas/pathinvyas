@@ -60,5 +60,3 @@ I love problem-solving, clean architecture, and learning technologies that make 
 > *“First, solve the problem. Then, write the code.”* — John Johnson
 
 ---
-
-⭐ If you like my work, feel free to explore my repositories and leave a star!
